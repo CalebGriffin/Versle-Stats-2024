@@ -637,6 +637,9 @@
       null,
       null,
       null,
+      null,
+      null,
+      null,
       null
     ],
     "Old Testament": [
@@ -797,11 +800,6 @@
       null,
       null,
       null,
-      null,
-      null,
-      null
-    ],
-    "": [
       null,
       null,
       null,
@@ -970,6 +968,8 @@
       null,
       null,
       null,
+      null,
+      null,
       null
     ],
     "Historical": [
@@ -995,6 +995,8 @@
       null,
       null,
       4,
+      null,
+      null,
       null,
       null,
       null,
@@ -1179,12 +1181,6 @@
       null,
       null,
       null,
-      null
-    ],
-    "": [
-      null,
-      null,
-      null,
       null,
       null
     ]
@@ -1202,8 +1198,7 @@
       "4": 7,
       "5": 4,
       "6": 2
-    },
-    "": {}
+    }
   },
   "groupedScorePercentsByTestament": {
     "New Testament": {
@@ -1218,8 +1213,7 @@
       "4": 53.84615384615385,
       "5": 30.76923076923077,
       "6": 15.384615384615385
-    },
-    "": {}
+    }
   },
   "groupedScoreCountsByGenre": {
     "Prophecy": {
@@ -1247,8 +1241,7 @@
     },
     "Poetic": {
       "4": 2
-    },
-    "": {}
+    }
   },
   "groupedScorePercentsByGenre": {
     "Prophecy": {
@@ -1276,7 +1269,6 @@
     },
     "Poetic": {
       "4": 100
-    },
-    "": {}
+    }
   }
 }
